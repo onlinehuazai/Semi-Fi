@@ -1,3 +1,2 @@
 # Semi-Fi
-
-2023/7/15
+The code will be released.
