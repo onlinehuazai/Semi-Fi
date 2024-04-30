@@ -1,2 +1,2 @@
 # Semi-Fi
-The code will be released.
+The descriptions will be released.
